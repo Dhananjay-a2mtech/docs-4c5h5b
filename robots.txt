@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-xe7chh.asiabola115.xyz/sitemap.xml
